@@ -35,9 +35,10 @@
 ### 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,mysql,git,github,vscode" />
 
+
 ---
 
-### 📊 GitHub Stats:
+### 📊 My Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sujixz&theme=tokyonight&hide_border=true&title_color=FFA500&text_color=ffffff&icon_color=FFA500&bg_color=000000&count_private=true&show_icons=true" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujixz&theme=tokyonight&hide_border=true&background=000000&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&currStreakNum=FFA500" height="150px"/>
