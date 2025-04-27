@@ -33,7 +33,6 @@
 ---
 
 ### 💻 Tech Stack:
-### 💻 Tech Stack:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
